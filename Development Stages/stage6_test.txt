@@ -1,0 +1,21 @@
+Output:
+Figure: A black rectangular window will appear on the screen. The window is titled "Ping Pong: Single Player," and the figure's number title is turned off, so it won't display a number.
+
+Game Elements: 
+A dashed gray line running vertically through the center, representing the net.
+Two white horizontal lines at the top and bottom, indicating the boundaries of the ping pong table.
+Two white paddles: Both controlled by user
+Scores for both players displayed as white text boxes.
+A white rectangular ball (initially on the left side) representing the ping pong ball.
+
+Instructions: At the bottom there is a text that provides guidance to the player on how to interact with the game.
+
+Gameplay:
+The player controls the right paddle using the up arrow (↑) and down arrow (↓) keys.
+The player can also control the left paddle using the W and S keys.
+When the ball collides with a paddle or the top/bottom boundaries, it changes direction accordingly and speed is increased randomely
+The game continues until one player reaches a score of 5.
+
+Game Over:
+When one of the players reaches a score of 5, a "Game Over" message is displayed in the center of the screen along with the winner's name.
+The game loop exits, and the game stops.

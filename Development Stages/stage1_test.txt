@@ -1,0 +1,5 @@
+Output:
+
+The program will display a figure on the screen. The figure contains the elements for the game such as a dashed  line will be drawn vertically in the middle of the game area representing the net between both sides of the ping pong table and 
+two white horizontal lines are also drawn, one near the top and one near the bottom. These lines represent the boundaries of the ping pong table.
+At the bottom of the figure there is a textbox with instructions for controlling your paddle using the arrow keys. It says; "Use ↑ and ↓ to control your paddle." This helps players understand how to interact with and control their paddle in game.

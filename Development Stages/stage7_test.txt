@@ -1,0 +1,10 @@
+In the center of the window, there is a white text box with the title "Game Options."
+
+Below the title, there are two white text box labeled "Single Player" and "Multi Player"
+These serves as an option for starting a single-player or multiplayer ping pong game
+
+You can click on the "Single Player" or "Multi Player" options to select the game mode.
+
+If you select the "Multi Player" option, a dialog box will appear with two input fields.
+The dialog box prompts you to enter the names of Player 1 and Player 2.
+You can enter custom names for both players.

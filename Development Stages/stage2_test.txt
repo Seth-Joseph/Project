@@ -1,0 +1,8 @@
+Output:
+Paddles: Two white paddles will be displayed on the game area. The first paddle (player1Paddle) is on the left, and the second paddle (player2Paddle) is on the right.
+
+Scores: The scores for both players will be displayed at the top of the figure.Initially the score labels (scoreLabel1 and scoreLabel2) are set to zero.
+
+Ball: A white ball will appear on the left side of the game area. It has a fixed size defined by ballSize and an initial position defined by ballPosition. The ball's position will be updated as the game progresses.
+
+These additions make the code set up a more complete representation of a ping pong game, with paddles, scores, and a ball

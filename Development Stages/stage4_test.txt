@@ -1,0 +1,6 @@
+Output:
+Collision Detection: The code checks for collisions between the ball and the edges of the game area, as well as with the paddles. When the ball hits the left or right boundary, the respective player's score is incremented, and the ball is reset to the left side with its initial velocity. When the ball hits the top or bottom boundary, its vertical velocity is reversed.
+
+Speed Increase: When the ball collides with a paddle, its horizontal velocity is reversed, and its speed increases randomly.
+
+Continuous Animation: The game continues to animate with the ball bouncing between the paddles, and player1's paddle tracking the ball's position.

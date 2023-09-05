@@ -1,0 +1,4 @@
+Output:
+While Loop: Using the while loop the ball starts moving from the left side towards the right side. The ball's position and the player1 paddle's position are continuously updated within this loop. The player1 paddle follows the vertical position of the ball (Ai).
+
+Continuous Animation: The game continues to animate with the ball and player1's paddle tracking the ball's position.
